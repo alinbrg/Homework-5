@@ -9,7 +9,7 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.sleep;
 
-public class adjarabet {
+public class Adjarabet {
     @Test
     public void test_case_1(){
         WebDriverManager.chromedriver().setup();
