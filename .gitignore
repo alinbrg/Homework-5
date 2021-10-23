@@ -1,5 +1,5 @@
 .idea
-homework/build
+homework/build/
 homework/target
 pom.xml.tag
 pom.xml.releaseBackup
